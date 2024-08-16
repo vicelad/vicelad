@@ -1,3 +1,11 @@
+# Flashcards and personal dictionary app
+
+https://lans.vercel.app/
+
+A web and PWA flashcards app designed to help you learn new words, featuring CSV dictionary import/export functionality. Built with SvelteKit, Postgres, and the Wordnik dictionary API.
+
+https://github.com/user-attachments/assets/6c415efd-c81c-4d5c-92cf-679bb76d856d
+
 # Dio Runner
 
 https://github.com/vicelad/dio-runner
