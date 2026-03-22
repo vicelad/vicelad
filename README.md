@@ -4,7 +4,7 @@ Reporting dashboard built with SvelteKit and PostgreSQL. Uses a small custom SVG
 
 Sometimes writing your own charts is easier than reading someone else's documentation.
 
-`HTML ` `CSS` `JavaScript` `Svelte`
+`HTML` `CSS` `JavaScript` `Svelte`
 
 https://github.com/user-attachments/assets/2d1fa30b-5f15-44fe-9b85-085ca7777fac
 
