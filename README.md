@@ -64,15 +64,15 @@ https://github.com/user-attachments/assets/c18df7d8-fce8-4aca-967f-e7911b34b807
 
 <br>
 
-### winamp-from-wish
+### winamp-from-temu
 
-https://github.com/vicelad/winamp-from-wish
+https://github.com/vicelad/winamp-from-temu
 
 Minimal audio player written in Python.
 
 The goal was simple - press play and hear music. Surprisingly non-trivial.
 
-https://github.com/user-attachments/assets/0221daf0-1a37-44db-b236-41bdbf2e52c0
+https://github.com/user-attachments/assets/1ee97382-91b0-43ec-99e0-e660815fb1fb
 
 <br>
 
