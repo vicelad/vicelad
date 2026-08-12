@@ -8,6 +8,8 @@ Nightly, just like my sleep schedule.
 
 `Playwright` `TypeScript` `SvelteKit`
 
+https://github.com/user-attachments/assets/8c7b5188-74c0-47dd-8721-98e2ec490315
+
 <br>
 
 ---
@@ -21,6 +23,8 @@ Cross-browser E2E on Chromium, Firefox, and WebKit, logged in once.
 Blink and you'll miss it. I blinked. Nothing happened.
 
 `Playwright` `Cross-Browser` `Headed` `E2E`
+
+https://github.com/user-attachments/assets/3be78284-0d69-460d-9bcd-110d88edb525
 
 <br>
 
@@ -38,6 +42,8 @@ Thanks to Microsoft for paying for my laziness.
 
 `Playwright` `UI-Mode` `Trace-Viewer` `Debugging`
 
+https://github.com/user-attachments/assets/babbea2f-c41f-487e-9c64-73c5126e5b67
+
 <br>
 
 ---
@@ -49,6 +55,8 @@ Thanks to Microsoft for paying for my laziness.
 Ask the AI (via Playwright MCP) to plan and debug tests, then record it writing and running them. AI does the boring work, humans keep the fun jobs.
 
 `Playwright` `AI` `MCP` `E2E`
+
+https://github.com/user-attachments/assets/e319b2ef-f489-4d4f-bf28-a7fd83ae77bf
 
 <br>
 
