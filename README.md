@@ -1,3 +1,61 @@
+### playwright-cli
+
+Migrating prod smoke checks into a proper Playwright suite.
+
+Now with 130 tests that are legally speaking "a regression catalog".
+
+Nightly, just like my sleep schedule.
+
+`Playwright` `TypeScript` `SvelteKit`
+
+<br>
+
+---
+
+<br>
+
+### playwright-headed
+
+Cross-browser E2E on Chromium, Firefox, and WebKit, logged in once.
+
+Blink and you'll miss it. I blinked. Nothing happened.
+
+`Playwright` `Cross-Browser` `Headed` `E2E`
+
+<br>
+
+---
+
+<br>
+
+### playwright-tracing
+
+Every click, every request, every pixel - replayed from a trace.
+
+10 years ago with Selenium I'd have assembled this from scratch. Today, Playwright just gives it to me.
+
+Thanks to Microsoft for paying for my laziness.
+
+`Playwright` `UI-Mode` `Trace-Viewer` `Debugging`
+
+<br>
+
+---
+
+<br>
+
+### playwright-mcp
+
+Ask the AI (via Playwright MCP) to plan and debug tests, then record it writing and running them. AI does the boring work, humans keep the fun jobs.
+
+`Playwright` `AI` `MCP` `E2E`
+
+<br>
+
+---
+
+<br>
+
 ### another-charts-library
 
 Reporting dashboard built with SvelteKit and PostgreSQL. Uses a small custom SVG chart library I wrote for speed and control.
