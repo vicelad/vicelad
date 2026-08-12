@@ -8,7 +8,7 @@ Nightly, just like my sleep schedule.
 
 `Playwright` `TypeScript` `SvelteKit`
 
-https://github.com/user-attachments/assets/8c7b5188-74c0-47dd-8721-98e2ec490315
+https://github.com/user-attachments/assets/3345ae4e-f2cc-4a65-807f-4ed4ff12145a
 
 <br>
 
@@ -24,7 +24,7 @@ Blink and you'll miss it. I blinked. Nothing happened.
 
 `Playwright` `Cross-Browser` `Headed` `E2E`
 
-https://github.com/user-attachments/assets/3be78284-0d69-460d-9bcd-110d88edb525
+https://github.com/user-attachments/assets/dc56444a-5a2f-43e6-96a7-5853ea852373
 
 <br>
 
@@ -42,7 +42,7 @@ Thanks to Microsoft for paying for my laziness.
 
 `Playwright` `UI-Mode` `Trace-Viewer` `Debugging`
 
-https://github.com/user-attachments/assets/babbea2f-c41f-487e-9c64-73c5126e5b67
+https://github.com/user-attachments/assets/227ef226-e5a6-463b-b091-4a1878f5cab1
 
 <br>
 
@@ -56,7 +56,7 @@ Ask the AI (via Playwright MCP) to plan and debug tests, then record it writing 
 
 `Playwright` `AI` `MCP` `E2E`
 
-https://github.com/user-attachments/assets/e319b2ef-f489-4d4f-bf28-a7fd83ae77bf
+https://github.com/user-attachments/assets/8546ae10-9e58-4017-8d97-2122872b7ed5
 
 <br>
 
