@@ -157,17 +157,3 @@ Useful when you want email automation without becoming an email server engineer.
 https://github.com/user-attachments/assets/6e827ae8-6531-4273-9f7d-045cd1b768f3
 
 <br>
-
----
-
-<br>
-
-### youtube-downloader-2021
-
-https://github.com/vicelad/youtube-downloader
-
-Simple YouTube video downloader.
-
-Please read the disclaimer before suing me.
-
-https://github.com/user-attachments/assets/c2ea63c3-6903-4355-bef7-27e37448f735
